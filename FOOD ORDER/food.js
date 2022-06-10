@@ -26,9 +26,13 @@ var manuCard =function(menu_List){
     //customer choose what they wants 
     }
     
-    var servant_Check = function()
+    var placeOrder= function()
     {
     // servant check the food available or not
     //if there take order
     //else cancel the order
+    }
+    var orderStatus = function()
+    {
+        //customer check what they order
     }
